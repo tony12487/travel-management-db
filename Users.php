@@ -44,6 +44,13 @@ $conn->close();
             <a href="adduser.php" class="btn btn-book btn-lg">📅 Add New User</a>
             <a href="Bookings.php" class="btn btn-book btn-lg">📅 View Bookings</a>
             <a href="Payments.php" class="btn btn-book btn-lg">💰 View Payments</a>
+            <a href="Destinations.php" class="btn btn-book btn-lg">🛬 View Destinations</a>
+            <a href="Flights.php" class="btn btn-book btn-lg">✈ View Flights</a>
+            <a href="CarRental.php" class="btn btn-book btn-lg">🚘 View Car Rentals</a>
+            <a href="Hotels.php" class="btn btn-book btn-lg">🏨 View Hotels</a>
+            <a href="view_booking_summary.php" class="btn btn-book btn-lg"> View Booking Summary</a>
+
+
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
